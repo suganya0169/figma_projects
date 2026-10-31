@@ -24,3 +24,6 @@ Mobile App UI/UX Design
 
 ## Created By
 S. Suganya
+
+## Figma Design
+[View Food Delivery App in Figma]([https://www.figma.com/design/YFjgSPwUrsWtO45rNQEdXD/user-persona?node-id=59-2&t=3o3SJUrmTur8cxOp-1](https://www.figma.com/design/YFjgSPwUrsWtO45rNQEdXD/user-persona?node-id=59-2\&t=3o3SJUrmTur8cxOp-1))
